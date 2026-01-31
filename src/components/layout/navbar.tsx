@@ -62,7 +62,7 @@ const Navbar = ({
     title: "Next Blog",
   },
   menu = [
-    { title: "Home", url: "#" },
+    { title: "Home", url: "/" },
     {
       title: "Blogs",
       url: "/blogs",
@@ -70,6 +70,11 @@ const Navbar = ({
     {
       title: "About",
       url: "/about",
+      
+    },
+    {
+      title: "Dashboard",
+      url: "/dashboard",
       
     }
   ],
