@@ -7,7 +7,11 @@ export const userRoutes: Route[] = [
             {
                 title: "create blog",
                 url: "/create-blog",
-            }
+            },
+            {
+                title: "update blog",
+                url: "/update blog",
+            },
         ]
     }
 
